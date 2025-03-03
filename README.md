@@ -1,10 +1,10 @@
-Amazon Sales Dashboard
+**Amazon Sales Dashboard**
 
 
-##Problem Statement:
+**##Problem Statement:**
 This dashboard is designed to analyze Amazon’s sales data, highlighting the key factors that impact sales performance. By uncovering trends and patterns, it provides valuable insights to refine sales strategies, boost profitability, and enhance customer engagement across different product categories and regions.
 
-##Dataset Explanation:
+**##Dataset Explanation:**
 
 •	Order Details:
 o	Order ID: Unique identifier for each customer order.
@@ -34,9 +34,9 @@ o	Shipment Cost: Cost incurred for shipping the order.
 
 
 
-##Steps Followed in Building the Amazon Sales Dashboard
+**##Steps Followed in Building the Amazon Sales Dashboard**
 
-1. Data Preparation
+**1. Data Preparation**
 
 •	Data Loading: Import the Amazon sales dataset into Power BI Desktop. Navigate to the Home tab, click Get Data, and select the appropriate file format.
 
@@ -48,11 +48,11 @@ o	Shipment Cost: Cost incurred for shipping the order.
 
 •	Data Cleaning: Replace or remove null values and handle any errors using Remove Errors or Replace Errors functions in Power Query.
 
-2. Building Key Metrics & Visualizations
+**2. Building Key Metrics & Visualizations**
 •	Total Metrics Cards: Display key metrics such as Total Sales, Total Quantity, Total Profit, and Total Shipment Cost using Card Visuals.
 
 
-•	Sales Trend Analysis:
+**•	Sales Trend Analysis:**
 
 o	Line Chart: Visualize sales trends over time, using Order Date on the axis and Sales on the values to track monthly and yearly sales performance.
 
@@ -72,8 +72,8 @@ o	Map Visualization: Represent the geographic distribution of customers, ranking
 
 o	Scatter Chart: Compare sales and profit across customer segments by product categories, using Category on the axis, Segment as the legend, and Sales and Profit as values.
 
-
-##Key Insights from the Amazon Sales Dashboard
+**
+##Key Insights from the Amazon Sales Dashboard**
 
 1. Overall Sales & Profit Performance
 •	The total sales revenue is $2.30M, with a profit of $0.29M, resulting in a profit margin of 12.6%.
@@ -104,7 +104,7 @@ o	Scatter Chart: Compare sales and profit across customer segments by product ca
 •	Chairs and tables contribute significantly to Furniture sales.
 •	This insight can help businesses optimize inventory management and focus marketing efforts on high-performing sub-categories.
 
-##Strategic Recommendations for Amazon Sales Improvement:
+**##Strategic Recommendations for Amazon Sales Improvement:**
 
 1. Enhance Profit Margins
 •	Analyze cost structures and pricing strategies to improve profitability.
